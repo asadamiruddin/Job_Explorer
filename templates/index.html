@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href='../static/css/style.css'/>
+
+    <title>{% block title %} {% endblock %}</title>
+  </head>
+  <main>
+      <label>
+        <span>Search:</span>
+        <input placeholder="Enter search term" type="search" id="searchInput">
+      </label>
+      
+      <div class="table-wrapper">
+        <table id="filterTable">
+          <thead>
+            <tr>
+              <th data-type="text">Job Title</th>
+              <th data-type="number">Number of Jobs Used</th>
+              <th data-type="text">Top skill (1)</th>
+              <th data-type="text">Top skill (2)</th>
+              <th data-type="text">Top skill (3)</th>
+              <th data-type="text">Top skill (4)</th>
+              <th data-type="text">Top skill (5)</th>
+              <th data-type="text">Top skill (6)</th>
+              <th data-type="text">Top skill (7)</th>
+              <th data-type="text">Top skill (8)</th>
+              <th data-type="text">Top skill (9)</th>
+              <th data-type="text">Top skill (10)</th>
+              <th data-type="number">Confidence level</th>
+            </tr>
+          </thead>
+          <tbody>
+              {% for row in value %}  
+                <tr> 
+                    <td>{{row[0]}}</td> 
+                    <td>{{row[1]}}</td>
+                    <td>{{row[2]}}</td>
+                    <td>{{row[3]}}</td>
+                    <td>{{row[4]}}</td>
+                    <td>{{row[5]}}</td>
+                    <td>{{row[6]}}</td>
+                    <td>{{row[7]}}</td>
+                    <td>{{row[8]}}</td>
+                    <td>{{row[9]}}</td>
+                    <td>{{row[10]}}</td>
+                    <td>{{row[11]}}</td>
+                    <td>{{row[12]}}</td>
+                </tr> 
+              {% endfor %} 
+              <script src="../static/js/functions.js"></script> 
+          </tbody>
+        </table>
+      </div>
+  </main>
+</html>
