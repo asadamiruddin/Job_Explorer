@@ -1,1 +1,1 @@
-web:gunicorn app:skillup10
+web: gunicorn app:skillup10
