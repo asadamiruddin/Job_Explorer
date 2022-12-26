@@ -1,0 +1,107 @@
+,all_titles,num_occurences,Top1,Top2,Top3,Top4,Top5,Top6,Top7,Top8,Top9,Top10,confidence_level
+0,account executive,42,territory,ae,selling,pipeline,quota,consultative,coax,ancillary,assigned territory,prospective,0.4036421081528275
+1,account manager,98,territory,selling,sleep,quota,renewal,assigned territory,consultative,advertising,pipeline,consultative selling,0.40979489087448406
+2,accountant,28,accounting,statutory,degree accounting,audit,reconciliation,preparation,accounting team,ledger,intercompany,tax,0.5804210478650654
+3,administrative assistant,46,correspondence,secretarial,mail,clerical,diploma,filing,calendar,payroll,routine,expense,0.35274464890108453
+4,administrator,21,da,must posse,crew,music,fund,sind,emergency,ist,political,pac,0.34413039777087107
+5,apprentice,18,apprenticeship,bakery,scratch,diesel,classroom,baking,insert,safety sanitation,classroom setting,se,0.5146905613418123
+6,assistant,30,loss prevention,loss,prevention,conversational,store,coffee shop,jewelry,theft,conversation,dispensary,0.7258111353202568
+7,assistant manager,29,preferred banking,banking,store,wash,guest,fragrance,terminate,beauty,standing,walking,0.14870434948391958
+8,associate director,51,clinical,patient,campaign,immunology,market access,segmentation,due diligence,diligence,cell,molecular,0.21083267757655788
+9,associate manager,26,custodial,fiduciary,registration series,registration,infrastructure hardware,adverse,banana,loyalty,hardware,banana factory,0.19409428912297547
+10,business analyst,47,con,tax,scrum,agile,accounting,backlog,para,sap,analysis case,acceptance,0.18393024118707238
+11,business development,39,pipeline,talent acquisition,consultative,blade,prospective,merchant,cold calling,selling,wireless,territory,0.05242591139181139
+12,business development representative,21,outbound,tableau,equality,navigator,pipeline,degree typically,generate,commercial banking,cold,calling,0.18083727994667526
+13,business partner,26,instructional,observer,talent drive,curriculum,da,distinctive,reward,build capability,versatility,store,0.0788050738035585
+14,category manager,18,procurement,spend,supplier,cluster,chain procurement,indirect,approximately typical,typical working,chain engineering,regional,0.29519737896321935
+15,cloud engineer,20,azure,scientific,scientific consumption,consumption,azure azure,separation package,separation,storage,infrastructure code,ce,0.48493163719894455
+16,compliance officer,20,conduct risk,prudential,drafting,rule,regulation,privacy team,footprint may,regulator,risk conduct,corrective action,0.26689681844695984
+17,construction manager,21,electrical,landlord,negotiate,knowledge building,documentation improvement,contractor,turnover,critical infrastructure,electrical plumbing,execution progress,0.21249426412599096
+18,copywriter,27,copy,tone,studio,editorial,storytelling,print,voice,guest,advertising,ensure copy,0.4986121941460036
+19,counsel,52,law firm,attorney,external law,litigation,advice,firm,drafting,arbitration,admission,bar,0.7754245655357191
+20,customer service associate,28,deposit,plumbing,activity report,family culture,keep counter,late,counter,top workplace,run smoother,smoother,0.11682321294790382
+21,customer service representative,89,diploma,phone,diploma equivalent,incoming,bilingual,inbound,front end,hour,pst,courteous,0.10020658718195523
+22,customer service specialist,24,apa,phone,animal,order entry,shipment,acting primary,documentation highest,mandatory training,work approximately,concise documentation,0.10582913805879124
+23,customer success manager,48,adoption,retention,selling,satisfaction,advisor,merchant,renewal,revenue growth,living,drive adoption,0.3019302645570824
+24,data analyst,22,ta,tableau,python,workday,visualization,statistical,ta team,quantitative,concentration,related concentration,0.31499451992748045
+25,data engineer,62,azure,python,spark,architecture,scala,snowflake,modeling,hive,azure azure,relational,0.48376727467625524
+26,data scientist,36,python,statistical,quantitative,modeling,predictive,visualization,inference,quantitative field,causal,causal inference,0.4614521153036951
+27,design engineer,18,camera,camera hardware,chip,block,visualization,electrical,hardware,architecture,soc,signal,0.4191271832557818
+28,designer,54,interaction,usability,designing,sketch,conversational,visual,architecture,graphic,sketching,information architecture,0.3153233992015557
+29,development engineer,21,engineering classification,architecture,typically engineering,degree typically,git,silicon,semiconductor,python,classification,hardware,0.2432000620359248
+30,editor,72,editorial,copy,journalism,newsroom,edit,audience,breaking,style,publication,letter,0.5395424835809799
+31,engagement manager,18,physician,clinical,third,third party,party,kidney,crew,physician practice,kidney care,clinical market,0.3767032226610979
+32,executive assistant,29,expense,confidential information,calendar,domestic travel,confidential,correspondence,professionalism,ea,confidentiality,chief,0.25510949477303135
+33,experience designer,23,instructional,user testing,interaction,visual,usability,graphic,psychology,information architecture,rationale,articulate,0.3126880043641589
+34,finance manager,25,accounting,forecasting,forecast,modeling,team report,regional,analysis drive,drive regional,leadership local,spend,0.20589065098297368
+35,financial analyst,46,accounting,underwriting,forecast,variance,forecasting,degree accounting,sap,variance analysis,retail retail,advanced excel,0.3364668104521028
+36,key account manager,19,selling,oncology,contract performance,distributor,territory,immunization,knowledge market,lighting,qualified term,utilize internal,0.2865170076385615
+37,legal counsel,20,drafting,law firm,advice,draft negotiate,draft,litigation,crew,attorney,advise,negotiate,0.44806972728925526
+38,machine learning engineer,19,python,predictive,architecture,current professional,statistical predictive,computer engineering,statistical,fraud,architecture reliability,professional least,0.19448863689147947
+39,manufacturing associate,18,batch,batch record,purification,cleaning,lift move,cell culture,manual,rotating,lift,protein,0.2041899377195549
+40,manufacturing engineer,26,tooling,fabrication,optical,assembly,molding,stem,engineering classification,degree stem,typically engineering,lean,0.2671914608461684
+41,manufacturing technician,18,production equipment,clean room,nonstandard,clean,semiconductor,validation,inject,retinal,floor,diploma,0.1522902653933995
+42,marketing manager,75,campaign,loyalty,regional,segmentation,demand generation,promotional,marketer,launch,advertising,coffee,0.10630483247824538
+43,mechanic,28,repair,aircraft,fabricate,vehicle,water,aircraft maintenance,piping,repair maintenance,cooling,automotive,0.3242844386272825
+44,mechanical engineer,21,optical,ordnance,electrical,hardware,missile,cumulative,pro,clearance,reliability,se,0.3385674710158144
+45,nurse practitioner,20,patient,clinic,nursing,clinical,treatment,physician,diagnosis treatment,primary care,aesthetic,patient care,0.6112698832347118
+46,office manager,18,reception,mail,human professional,area responsibility,visitor,payroll,related maintain,payable,purpose strive,rooted purpose,0.14596681111046478
+47,operations analyst,41,procurement,provide procurement,treasury,dispatch,deal,work master,client regulatory,visitor access,typically related,pilot,0.04943402872159861
+48,operations associate,19,airport,dasher,hard help,solve shopping,hospitality,casino,banking,help succeed,availability work,satisfactorily,0.15028438889866855
+49,operations lead,19,hospitality,solve shopping,plan clinical,missile,clinical,satisfactorily,tooling,deliver promote,production team,child,0.04798076058412031
+50,operations manager,65,store,agent,routing,guest,yard,travel team,production safety,area responsibility,custodial,deal,0.08943544541334163
+51,operations specialist,27,freight,shipment,pour,music,scooter,transport,alpha,music distribution,oculus,making mark,0.21693938254543027
+52,operator,20,bonus equal,jest,jako,weekend differential,se,continuous bonus,differential,pro,un,differential hour,0.27787006996331215
+53,partner manager,21,grid,advertising,performance advertising,measurement,advertising advertising,joint,field advertising,advertising related,consultative,asp,0.5393788880185765
+54,pharmacy technician,18,medication,prescription,patient,pharmacist,sign bonus,fry,notify,board,diploma,clean,0.4381304143616087
+55,principal product manager,25,feature,agile,karma,field related,annually,privacy risk,advertising,engineering build,observability,qualitative,0.045599117792792125
+56,process engineer,29,semiconductor,material,laser,failure analysis,optical,fabrication,yield,assembly,chemical engineering,engineering material,0.3011927411780221
+57,producer,19,tennis,audio,editorial,journalism,studio,tennis channel,photo,storytelling,television,newsroom,0.4851498057494191
+58,product analyst,19,join impact,desired desired,description valued,fraud,future housing,testing evaluation,ace,compelling impact,forward make,team thriving,0.007977075727404687
+59,product designer,72,visual,interaction,usability,designing,tock,interaction visual,craft,sketch,para,visual interaction,0.3845913949009166
+60,product manager,193,agile,backlog,scrum,early childhood,launch,feature,childhood,release,scrum team,baseball,0.14268725801696752
+61,product marketing manager,30,enablement,collateral,advertising,adoption,marketer,compelling,demand generation,prime,launch,tu,0.29537129294320386
+62,product owner,41,backlog,squad,agile,treasury investor,scrum,sprint,agile team,acceptance,team backlog,treasury,0.6471251308152037
+63,program manager,84,utility,district,localization,sustainment,regional,student,justice,curriculum,educator,commission,0.0
+64,project engineer,18,electrical,missile,repair,studium,additive,cooling,work scope,deploy innovative,direction implementation,electrical architectural,0.13418171591269878
+65,project management,29,release,clinical,trial,risk governance,clinical trial,internship,undergraduate,agile,mitral,mitral tricuspid,0.15880657418365338
+66,project manager,111,localization,agile,schedule budget,gamma,semiconductor,clinical,loyalty,agriculture,initiation,scrum,0.028392463170648898
+67,quality engineer,36,supplier,inspection,corrective,corrective preventive,stroke,statistical,root,root cause,cause,sigma,0.3945310346238767
+68,registered nurse,23,patient,nursing,plan care,infusion,patient care,clinical,physician,patient family,treatment,care patient,1.0
+69,relationship manager,26,banking,underwriting,continuity,crew,private,private banking,safe act,middle market,directly identify,personal banking,0.3017017110491618
+70,reporter,26,cover,breaking,beat,letter,cover letter,journalism,county,newsroom,story,write,0.4352788227302091
+71,representative,40,arbitration,dispute,accounting,recovery,introductory,evidence,exciting career,rental,phone,connected exciting,0.1473093798627994
+72,researcher,25,quantitative,qualitative,usability,qualitative quantitative,evaluative,team user,interaction,guidance user,designing,example,0.33243186035171407
+73,sales executive,21,selling,territory,pipeline,profitable,export,quota,segment,consultative,full array,grow consultative,0.11870249553463434
+74,sales representative,24,selling,animal,territory,animal aqua,aqua,card,trucking,conservation,aquaculture,earning potential,0.3003823034653789
+75,sales specialist,28,territory,oncology,assigned territory,selling,quota,patient,adoption,therapeutic,showroom,clinical,0.23984947600233783
+76,scientist,19,quantum,scientific,gene,clinical,characterization,assay,pharmacology,nonclinical,translational,laboratory,0.6102949668539859
+77,security officer,26,guard,law enforcement,fire,bonus equal,enforce,enforcement,incident,valid,class license,dod,0.22439402171657283
+78,senior accountant,20,accounting,crew,ledger,treasury,tax,degree accounting,audit,monthly accounting,internal control,recording,0.6183294948542175
+79,senior associate,36,accounting,seller,investor,implementation core,compatible,inventory,firm,private,skilled,revenue accounting,0.07253851683797236
+80,senior consultant,28,welt,advisory,dich,supplier diversity,audit,accounting,supplier,hin,internal audit,sap,0.35731453400367164
+81,senior counsel,21,litigation,attorney,advice,advise,law firm,crew,procurement,lawyer,antitrust,litigation law,0.4706431582614195
+82,senior director,47,loyalty,corporate citizenship,clinical,actuarial,optimal,governmental,operational resilience,audio,oversee,various complex,0.1552559234077073
+83,senior financial analyst,32,accounting,degree accounting,forecasting,crew,quarterly,transmission,accounting related,sap,variance,advanced excel,0.3726245378554238
+84,senior product designer,56,visual,interaction,fidelity,designing,sketch,interaction visual,elegant,dasher,intuitive,graphic,0.14797298099598594
+85,senior product manager,86,agile,feature,market linked,backlog,advertising,adoption,launch,linked,release,deep understanding,0.03430839798577477
+86,senior project manager,22,methodology,appropriate onshore,agile,systematically logically,work systematically,onshore offshore,value knowledge,successful delivery,think work,best best,0.04039622239773779
+87,senior software engineer,52,distributed,architecture,python,agile,degree computer,scalable,source,block,typescript,ticker,0.22955701312103752
+88,senior technical writer,21,un,pour,documentation site,technique,deliver documentation,dita,style,nous,write,improve documentation,0.2561342520960212
+89,social worker,22,shall,psychosocial,patient,student,discharge,intervention,assessment,professional staff,patient family,academic,0.6180231315900099
+90,software engineer,77,architecture,android,distributed,python,degree computer,agile,docker,object,computer related,engineering team,0.33962362542091057
+91,strategy manager,19,water,come working,ambiguity come,infra,strategist,filtration,organization execute,oversee team,amongst team,budget oversight,0.17870570912670494
+92,support specialist,29,transmission,surety,bond,analysis hardware,tier,hardware,effective local,site analysis,traceability,control room,0.19262342646165254
+93,systems engineer,34,engineering classification,hardware,typically engineering,degree typically,doctorate degree,math discipline,doctorate,clearance,discipline engineering,architecture,0.16052558074631765
+94,technical account manager,23,tam,tableau,adoption,advisor,regionally,loyalty,advertising,modernization,discrimination harassment,internally,0.2965948026627508
+95,technical product manager,38,agile,scrum,backlog,youth,robot,architecture,tableau,release,scaled agile,scalable,0.15856337544915813
+96,technical program manager,21,prime,agile,engineering related,scrum,remove,degree computer,infra,engineering engineering,reliability,computer engineering,0.21164068696726732
+97,technical support engineer,21,ist,discrimination harassment,based individual,storage,harassment based,server,platinum,harassment,added advantage,phone,0.11554804943241476
+98,technical writer,68,edit,writing documentation,write,style,developer,documentation user,instructional,minimum writing,audience,write documentation,0.2300089523074337
+99,technician,60,repair,electrical,vehicle,wafer,assembly,ase,cable,rework,semiconductor,heating,0.2942669633152367
+100,underwriter,19,underwriting,surety,surety underwriting,underwriting staff,underwriting team,commercial specialty,current accurate,rating,authority,loss,0.5501006901521716
+101,ux designer,42,interaction,visual,designing,crew,sketch,information architecture,usability,accessibility,architecture,interaction visual,0.37289796749180004
+102,ux researcher,27,qualitative,usability,quantitative,qualitative quantitative,evaluative,psychology,crew,field usability,initiative solve,supervision take,0.30217896552116896
+103,vice president,42,tax,nutrition,fiduciary,firm,tax tax,acceptance,risk control,private,sound risk,making sound,0.11684845454258368
+104,warehouse associate,36,loading,lift,merchandise,staging,pack,overtime,push pull,pallet,stand walk,handling equipment,0.2830342065502761
+105,writer,29,newsletter,clinical,copy,ring,editorial,write,tenant,voice,member clinical,submission clinical,0.30809325193541154

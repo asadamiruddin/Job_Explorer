@@ -2,15 +2,15 @@ import pandas as pd
 import sql.utils
 from configparser import ConfigParser
 import nltk
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('stopwords')
-# nltk.download('wordnet')
-# nltk.download('omw-1.4')
-# nltk.download('words')
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+nltk.download('words')
 
 config = ConfigParser()
 config.read('config.ini')
@@ -145,8 +145,13 @@ def populate_skills_table(conn, values_to_insert = []):
     insert_skills_table(conn = conn, values_to_insert = values_to_insert)
     conn.commit()
 
+def populate_skills_csv(conn): 
+    df = pd.read_sql_query("Select * from {0}".format(skills_table), conn)
+    df.to_csv('top_skills.csv')
+
 if __name__ == "__main__":
     conn = sql.utils.create_connection(jobs_db)
     top_skills = extract_skills(conn = conn)
     populate_skills_table(conn = conn, values_to_insert = top_skills)
+    populate_skills_csv(conn = conn)
     sql.utils.close_connection(conn)
