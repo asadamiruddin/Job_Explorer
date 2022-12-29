@@ -24,7 +24,7 @@ def get_query(filename):
     try:
         path = os.path.dirname(os.path.abspath(__file__))
 
-        file = open(f"{path}\queries\{filename}", "r")
+        file = open(f"{path}/queries/{filename}", "r")
         query = file.read()
         file.close()
         return query
